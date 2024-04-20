@@ -4,7 +4,9 @@
 
 ## Total Solar Eclipses, From 1000 to 3000
 
-| Calendar Date | Duration | Altitude | AST | ΔT | Mag | Location Best Visible | Map | Comment |
+<style>{font-size: 75%;} </style>
+
+| Gregorian Date | Duration | Altitude | AST | ΔT | Mag | Best Location | Map | Comment |
 | --- | --- | --- | --- | --- | --- | ------------ | --- | --- |
 | 1203-05-12 | 1m28s | 12.2° | 18:24 |  718s | 1.003 | North Cape     | [map](https://eclipsewise.com/solar/SEgmapx/1201-1300/SE1203May12Tgmapx.html) | Also East Point.  |
 | 1285-06-04 | 1m15s | 65.0° | 12:58 |  515s | 1.007 | Tyne Valley    | [map](https://eclipsewise.com/solar/SEgmapx/1201-1300/SE1285Jun04Hgmapx.html) | Central line from West Cape to Souris. Hybrid A-T-A.  |
@@ -17,6 +19,8 @@
 | 2205-07-17 | 3m39s | 56.6° | 10:38 |  280s | 1.016 | North Cape     | [map](https://eclipsewise.com/solar/SEgmapx/2201-2300/SE2205Jul17Tgmapx.html) | From Richmond up to North Cape. Very much like 2024-04-08. |
 | 2381-07-22 | 3m18s | 08.3° | 04:47 |  733s | 1.032 | West Point     | [map](https://eclipsewise.com/solar/SEgmapx/2301-2400/SE2381Jul22Tgmapx.html) | Entire Island in the path. Central from West Point to Cascumpec Bay. |
 | 2690-06-28 | 2m43s | 19.6° | 17:55 | 2119s | 1.011 | East Point     | [map](https://eclipsewise.com/solar/SEgmapx/2601-2700/SE2690Jun28Tgmapx.html) | Tignish area and northern Kings County. |
+
+<style>{font-size: 100%;} </style>
 
 Number of eclipses in each millenium:
 * 1000..1999: 4 total eclipses 1203, 1285, 1379, 1972
