@@ -4,7 +4,7 @@
 
 ## Total Solar Eclipses, From 1000 to 3000
 
-| YYYY-MM-DD | Duration | Altitude | AST | ΔT | Mag | Location | Map | Comment |
+| Calendar Date | Duration | Altitude | AST | ΔT | Mag | Location Best Visible | Map | Comment |
 | --- | --- | --- | --- | --- | --- | ------------ | --- | --- |
 | 1203-05-12 | 1m28s | 12.2° | 18:24 |  718s | 1.003 | North Cape     | [map](https://eclipsewise.com/solar/SEgmapx/1201-1300/SE1203May12Tgmapx.html) | Also East Point.  |
 | 1285-06-04 | 1m15s | 65.0° | 12:58 |  515s | 1.007 | Tyne Valley    | [map](https://eclipsewise.com/solar/SEgmapx/1201-1300/SE1285Jun04Hgmapx.html) | Central line from West Cape to Souris. Hybrid A-T-A.  |
