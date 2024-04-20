@@ -1,9 +1,3 @@
-<style>
- table {
-  font-size: 13px;
- }
-</style>
-
 # Solar eclipses visible from Prince Edward Island (PEI), Canada.
 
 **I've used data from Fred Espenak**, at [EclipseWise.com](https://eclipsewise.com/solar/SEatlas/SEatlas.html).
