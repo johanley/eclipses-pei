@@ -4,19 +4,19 @@
 
 ## Total Solar Eclipses, From 1000 to 3000
 
-| Date | Duration | Altitude | AST | DT | Mag | Location | Map | Comment |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1203-05-12 | 1m28s | 12.2d | 18:24 |  718s | 1.003 | North Cape     | [map](https://eclipsewise.com/solar/SEgmapx/1201-1300/SE1203May12Tgmapx.html) | Also East Point.  |
-| 1285-06-04 | 1m15s | 65.0d | 12:58 |  515s | 1.007 | Tyne Valley    | [map](https://eclipsewise.com/solar/SEgmapx/1201-1300/SE1285Jun04Hgmapx.html) | Central line from West Cape to Souris. Hybrid A-T-A.  |
-| 1379-05-16 | 4m22s | 63.4d | 12:32 |  347s | 1.016 | North Cape     | [map](https://eclipsewise.com/solar/SEgmapx/1301-1400/SE1379May16Tgmapx.html) | Very much like 2024-04-08. Visible in Lisbon, Gibraltar, Quebec City. |
-| 1972-07-10 | 2m09s | 33.2d | 16:36 |   43s | 1.017 | Dalvay         | [map](https://eclipsewise.com/solar/SEgmapx/1901-2000/SE1972Jul10Tgmapx.html) | Entire Island in the path. Monday. Central from Dalvay to Murray River. |
-| 2024-04-08 | 3m14s | 32.4d | 15:36 |   71s | 1.023 | North Cape     | [map](https://eclipsewise.com/solar/SEgmapx/2001-2100/SE2024Apr08Tgmapx.html) | From Kensington west. Monday. |
-| 2079-05-01 | 2m28s | 11.3d | 06:10 |  107s | 1.022 | Murray Harbour | [map](https://eclipsewise.com/solar/SEgmapx/2001-2100/SE2079May01Tgmapx.html) | Entire Island in the path, but center-line misses it to SE. |
-| 2106-05-03 | 2m00s | 40.3d | 15:20 |  134s | 1.005 | North Cape     | [map](https://eclipsewise.com/solar/SEgmapx/2101-2200/SE2106May03Tgmapx.html) | Only Tignish area. |
-| 2200-04-14 | 1m21s | 53.0d | 12:00 |  271s | 1.008 | North Rustico  | [map](https://eclipsewise.com/solar/SEgmapx/2101-2200/SE2200Apr14Tgmapx.html) | Central from Borden to North Rustico. Half the Island in the path. |
-| 2205-07-17 | 3m39s | 56.6d | 10:38 |  280s | 1.016 | North Cape     | [map](https://eclipsewise.com/solar/SEgmapx/2201-2300/SE2205Jul17Tgmapx.html) | From Richmond up to North Cape. Very much like 2024-04-08. |
-| 2381-07-22 | 3m18s | 08.3d | 04:47 |  733s | 1.032 | West Point     | [map](https://eclipsewise.com/solar/SEgmapx/2301-2400/SE2381Jul22Tgmapx.html) | Entire Island in the path. Central from West Point to Cascumpec Bay. |
-| 2690-06-28 | 2m43s | 19.6d | 17:55 | 2119s | 1.011 | East Point     | [map](https://eclipsewise.com/solar/SEgmapx/2601-2700/SE2690Jun28Tgmapx.html) | Tignish area and northern Kings County. |
+| YYYY-MM-DD | Duration | Altitude | AST | ΔT | Mag | Location | Map | Comment |
+| --- | --- | --- | --- | --- | --- | ------------ | --- | --- |
+| 1203-05-12 | 1m28s | 12.2° | 18:24 |  718s | 1.003 | North Cape     | [map](https://eclipsewise.com/solar/SEgmapx/1201-1300/SE1203May12Tgmapx.html) | Also East Point.  |
+| 1285-06-04 | 1m15s | 65.0° | 12:58 |  515s | 1.007 | Tyne Valley    | [map](https://eclipsewise.com/solar/SEgmapx/1201-1300/SE1285Jun04Hgmapx.html) | Central line from West Cape to Souris. Hybrid A-T-A.  |
+| 1379-05-16 | 4m22s | 63.4° | 12:32 |  347s | 1.016 | North Cape     | [map](https://eclipsewise.com/solar/SEgmapx/1301-1400/SE1379May16Tgmapx.html) | Very much like 2024-04-08. Visible in Lisbon, Gibraltar, Quebec City. |
+| 1972-07-10 | 2m09s | 33.2° | 16:36 |   43s | 1.017 | Dalvay         | [map](https://eclipsewise.com/solar/SEgmapx/1901-2000/SE1972Jul10Tgmapx.html) | Entire Island in the path. Monday. Central from Dalvay to Murray River. |
+| 2024-04-08 | 3m14s | 32.4° | 15:36 |   71s | 1.023 | North Cape     | [map](https://eclipsewise.com/solar/SEgmapx/2001-2100/SE2024Apr08Tgmapx.html) | From Kensington west. Monday. |
+| 2079-05-01 | 2m28s | 11.3° | 06:10 |  107s | 1.022 | Murray Harbour | [map](https://eclipsewise.com/solar/SEgmapx/2001-2100/SE2079May01Tgmapx.html) | Entire Island in the path, but center-line misses it to SE. |
+| 2106-05-03 | 2m00s | 40.3° | 15:20 |  134s | 1.005 | North Cape     | [map](https://eclipsewise.com/solar/SEgmapx/2101-2200/SE2106May03Tgmapx.html) | Only Tignish area. |
+| 2200-04-14 | 1m21s | 53.0° | 12:00 |  271s | 1.008 | North Rustico  | [map](https://eclipsewise.com/solar/SEgmapx/2101-2200/SE2200Apr14Tgmapx.html) | Central from Borden to North Rustico. Half the Island in the path. |
+| 2205-07-17 | 3m39s | 56.6° | 10:38 |  280s | 1.016 | North Cape     | [map](https://eclipsewise.com/solar/SEgmapx/2201-2300/SE2205Jul17Tgmapx.html) | From Richmond up to North Cape. Very much like 2024-04-08. |
+| 2381-07-22 | 3m18s | 08.3° | 04:47 |  733s | 1.032 | West Point     | [map](https://eclipsewise.com/solar/SEgmapx/2301-2400/SE2381Jul22Tgmapx.html) | Entire Island in the path. Central from West Point to Cascumpec Bay. |
+| 2690-06-28 | 2m43s | 19.6° | 17:55 | 2119s | 1.011 | East Point     | [map](https://eclipsewise.com/solar/SEgmapx/2601-2700/SE2690Jun28Tgmapx.html) | Tignish area and northern Kings County. |
 
 Number of eclipses in each millenium:
 * 1000..1999: 4 total eclipses 1203, 1285, 1379, 1972
