@@ -1,5 +1,7 @@
 # Solar eclipses visible from Prince Edward Island (PEI), Canada.
 
+The content is deployed <a href='https://johanley.github.io/eclipses-pei/'>here</a>.
+
 **I've used data from Fred Espenak**, at [EclipseWise.com](https://eclipsewise.com/solar/SEatlas/SEatlas.html).
 
 ## Total Solar Eclipses, From 1000 to 3000
